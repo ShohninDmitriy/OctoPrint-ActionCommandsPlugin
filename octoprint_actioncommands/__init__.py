@@ -71,12 +71,12 @@ class ActionCommandsPlugin(octoprint.plugin.TemplatePlugin,
         
         # version check: github repository
         type="github_release",
-        user="benlye",
+        user="ShohninDmitriy",
         repo="OctoPrint-ActionCommandsPlugin",
         current=self._plugin_version,
         
         # update method: pip w/ dependency links
-        pip="https://github.com/benlye/OctoPrint-ActionCommandsPlugin/archive/{target_version}.zip"
+        pip="https://github.com/ShohninDmitriy/OctoPrint-ActionCommandsPlugin/archive/{target_version}.zip"
         )
     )
 

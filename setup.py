@@ -16,7 +16,7 @@ plugin_package = "octoprint_%s" % plugin_identifier
 plugin_name = "Action Commands"
 
 # The plugin's version. Can be overwritten within OctoPrint's internal data via __plugin_version__ in the plugin module
-plugin_version = "0.1"
+plugin_version = "0.1.1"
 
 # The plugin's description. Can be overwritten within OctoPrint's internal data via __plugin_description__ in the plugin
 # module
@@ -29,7 +29,7 @@ plugin_author = "Ben Lye"
 plugin_author_email = "ben@lye.co.nz"
 
 # The plugin's homepage URL. Can be overwritten within OctoPrint's internal data via __plugin_url__ in the plugin module
-plugin_url = "https://github.com/benlye/OctoPrint-ActionCommandsPlugin"
+plugin_url = "https://github.com/ShohninDmitriy/OctoPrint-ActionCommandsPlugin"
 
 # The plugin's license. Can be overwritten within OctoPrint's internal data via __plugin_license__ in the plugin module
 plugin_license = "AGPLv3"
